@@ -1,0 +1,11 @@
+fastapi
+fastapi_limiter
+cloudinary
+python-dotenv
+uvicorn
+sqlalchemy
+psycopg2
+passlib
+python-jose
+pydantic[email]
+python-multipart
